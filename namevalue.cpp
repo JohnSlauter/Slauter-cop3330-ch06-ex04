@@ -16,7 +16,7 @@ Name_value::Name_value(string name, int value){
 
 Name_value::Name_value(){
 
-    Name_value(NULL, 0);
+    Name_value("", 0);
 
 }
 
